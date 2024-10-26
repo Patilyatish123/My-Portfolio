@@ -118,7 +118,7 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* padding-top: 80px; */
+  padding-top: 80px;
 }
 .home-img img {
   height: 25vw;
