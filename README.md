@@ -9,8 +9,9 @@ Contact Form: Easily get in touch with me.
 Technologies Used
 HTML
 CSS
-Live Demo
-Check out the live version of my portfolio here: https://yatish-patil.netlify.app/
 JavaScript
+Live Demo
+Check out the live version of my portfolio here: Portfolio on Netlify
+
 Getting Started
-Clone the Repository: https://github.com/Patilyatish123/My-Portfolio
+
