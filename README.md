@@ -19,4 +19,5 @@ Check out the live version of my portfolio here: https://yatish-patil.netlify.ap
 ## Getting Started
 ###Clone the Repository:
 git clone https://github.com/Patilyatish123/My-Portfolio
+
 Open the Project: Open index.html in your preferred browser to view the website.
