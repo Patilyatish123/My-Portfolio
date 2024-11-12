@@ -9,9 +9,9 @@ This is my personal portfolio website, showcasing my projects, skills, and exper
 ### Contact Form: Easily get in touch with me.
 
 ## Technologies Used
-**HTML**
-**CSS**
-**JavaScript**
+** HTML **
+** CSS **
+** JavaScript **
 
 ## Live Demo
 Check out the live version of my portfolio here: https://yatish-patil.netlify.app/
