@@ -3,17 +3,17 @@
 This is my personal portfolio website, showcasing my projects, skills, and experience as a web developer. Built using HTML, CSS, and JavaScript, this portfolio is designed to highlight my work and provide an overview of my technical expertise.
 
 ## Features
-Responsive Design: Optimized for both desktop and mobile viewing.
-Projects Showcase: A dedicated section to highlight key projects.
-About Me: Information on my background, skills, and experience.
-Contact Form: Easily get in touch with me.
+### Responsive Design: Optimized for both desktop and mobile viewing.
+### Projects Showcase: A dedicated section to highlight key projects.
+### About Me: Information on my background, skills, and experience.
+### Contact Form: Easily get in touch with me.
 
 ## Technologies Used
 **HTML**
 **CSS**
 **JavaScript**
 
-##Live Demo
+## Live Demo
 Check out the live version of my portfolio here: https://yatish-patil.netlify.app/
 
 ## Getting Started
