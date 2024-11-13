@@ -14,7 +14,11 @@ This is my personal portfolio website, showcasing my projects, skills, and exper
 **JavaScript**
 
 ## Live Demo
+<<<<<<< HEAD
 Check out the live version of my portfolio here: https://twitter-clone-yatishp.vercel.app/
+=======
+Check out the live version of my portfolio here: https://yatish-patil.netlify.app/
+>>>>>>> 67608ebf9412c96003689a3865641c6ba7bcc0f6
 
 ## Getting Started
 ###Clone the Repository:
