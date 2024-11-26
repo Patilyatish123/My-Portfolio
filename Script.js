@@ -1,11 +1,11 @@
 // dark and light mode theme
 var mode = document.getElementById("mode");
 mode.onclick = function () {
-  document.body.classList.toggle("dark-theme");
-  if (document.body.classList.contains("dark-theme")) {
-    mode.src = "/images/Sun1.png";
-  } else {
+  document.body.classList.toggle("light-theme");
+  if (document.body.classList.contains("light-theme")) {
     mode.src = "/images/moon.png";
+  } else {
+    mode.src = "/images/Sun1.png";
   }
 };
 
@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // floating text
 var typed = new Typed(".Multiple-text", {
-  strings: ["Frontend developer.", "Web Developer.", "Coder"],
+  strings: ["Frontend developer.", "Web Developer.", "Full Stack developer."],
   typeSpeed: 140,
   backSpees: 400,
   backDelay: 400,
