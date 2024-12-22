@@ -3,9 +3,9 @@ var mode = document.getElementById("mode");
 mode.onclick = function () {
   document.body.classList.toggle("light-theme");
   if (document.body.classList.contains("light-theme")) {
-    mode.src = "/images/moon.png";
+    mode.src = "./images/moon.png";
   } else {
-    mode.src = "/images/Sun1.png";
+    mode.src = "./images/Sun1.png";
   }
 };
 
